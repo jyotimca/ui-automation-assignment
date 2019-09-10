@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.149273">
+<testcase classname="Fork a Repo to Create a new Project" name="" time="10.149273">
+<system-out><![CDATA[Given I am logged in to GitHub..............................................passed
+And I search for project written in "Golang" Language.......................passed
+Then I sort the search in "Most star".......................................passed
+And I click on first result.................................................passed
+Then I fork the project.....................................................passed
+And I mark the new project as star..........................................passed
+And I close the browser.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
